@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nusaibah.
 - 👀 I’m interested in math,problem solving,coding and electronics.
-- 🌱 I’m currently learning the basics of c++ and arduino.
+- 🌱 I’m currently learning the basics of C++ and Arduino.
 - 📫 How to reach me nusaibah1907@gmail.com
 
 <!---
